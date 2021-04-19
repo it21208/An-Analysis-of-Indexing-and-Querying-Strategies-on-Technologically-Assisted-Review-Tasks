@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4698334.svg)](https://doi.org/10.5281/zenodo.4698334)
 #### Paper submission for SIGIR 2018
 #### Author: Alexandros Ioannidis
 #### Date: February 2018
